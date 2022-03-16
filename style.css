@@ -14,3 +14,8 @@
     --hover-color: #fff; /* hover dark  - to 000 */
     --hover-color2: #000;  /* hover   - to fff0 */
     }
+
+.cv-header {
+    font-size: 30px;
+    font-weight: bold;
+}
