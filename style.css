@@ -1,0 +1,16 @@
+:root {
+    --color-green : #77DA9F;
+    --color-green-light : #A8F6B5;
+    --color-green-dark : #398E78;
+    --color-gray : #5D5E65;
+    --font-size: 20px;
+    --font-h2-size: 40px;
+    --color-gold: #bdae82;
+    --color-black: black;
+    
+    --body-color: #000; /* bg dark  - switch to fff for light*/
+    --text-color: #fff; /* text dark   - to 000*/
+    --h2-title-color: #bdae82; /* text dark   - to 000*/
+    --hover-color: #fff; /* hover dark  - to 000 */
+    --hover-color2: #000;  /* hover   - to fff0 */
+    }
