@@ -14,7 +14,6 @@ Age: 47
 
 _______
 
-
 ## Education
 
 * **National Research Nuclear University MEPhI (former Moscow Engineering Physics Institute)**
